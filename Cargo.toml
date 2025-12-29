@@ -2,7 +2,7 @@
 name = "spotify-dl"
 version = "0.9.5-z-er"
 authors = ["Guillem Castro <guillemcastro4@gmail.com>"]
-edition = "2025"
+edition = "2024"
 readme = "README.md"
 license = "MIT"
 homepage = "https://github.com/z-er/spotify-dl"
